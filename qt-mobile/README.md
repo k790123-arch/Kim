@@ -24,4 +24,4 @@ YouTube 업로드와 읽기 권한은 영상 전송, 채널 및 예약 시각 �
 
 영상 데이터를 보내기 전에 YouTube 전송 세션을 비공개 기록에 저장합니다. 연결이 끊기면 그 세션의 수신 위치부터 이어가며 Google이 완료 여부를 확인해 주지 못한 건은 Studio 확인 대상으로 남깁니다. 공개 시각을 지난 작업에는 새 데이터를 전송하지 않습니다. 기록표의 접근 권한은 본인으로 유지하세요. 상태 열에 임시 세션 주소가 포함될 수 있습니다.
 
-[Google의 YouTube 예약 공개 안내](https://developers.google.com/youtube/v3/docs/videos#status.publishAt) · [Android OAuth 등록 안내](https://developers.google.com/identity/protocols/oauth2/native-app#android)
+[Google의 YouTube 예약 공개 안내](https://developers.google.com/youtube/v3/docs/videos#status.publishAt) · [Android OAuth 등록 안내](https://developer.android.com/identity/authorization?hl=ko)
